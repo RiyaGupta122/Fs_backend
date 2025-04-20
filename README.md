@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flysurebooking - Flight Booking System
 
 A comprehensive flight booking system built with Node.js, Express, and MongoDB.
@@ -144,3 +145,7 @@ A comprehensive flight booking system built with Node.js, Express, and MongoDB.
 - JWT authentication for protected routes
 - Input validation using express-validator
 - Environment variables for sensitive data
+=======
+# Fs_backend
+Flight booking system
+>>>>>>> 7d0a3483fd1b2d697906ca560cd62ee00f67396f
